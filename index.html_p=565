@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" >
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://qkthemes-demo.com/wordpress/industrial/xmlrpc.php">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<!-- For SEO -->
+								
+	<title>ALIQUAM TINCIDUNT MAURIS EU RISUS. | IndustrialIndustrial</title>
+                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Raleway:400&amp;subset=latin']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                    <link rel="alternate" type="application/rss+xml" title="Industrial &raquo; Feed" href="http://qkthemes-demo.com/wordpress/industrial/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Industrial &raquo; Comments Feed" href="http://qkthemes-demo.com/wordpress/industrial/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Industrial &raquo; ALIQUAM TINCIDUNT MAURIS EU RISUS. Comments Feed" href="http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus-2/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/qkthemes-demo.com\/wordpress\/industrial\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.7"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='tweets-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/plugins/tweets/asset/tweets.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='google-font-css'  href='//fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C600%2C700%2C300%2C100%2C200&#038;ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/css/bootstrap.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/css/owl.carousel.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.theme-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/css/owl.theme.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.bxslider-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/css/jquery.bxslider.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/css/magnific-popup.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/plugins/js_composer/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.4.3' type='text/css' media='screen' />
+<link rel='stylesheet' id='animate-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/css/animate.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='settings-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/css/settings.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-style-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/style.css?ver=4.2.7' type='text/css' media='all' />
+<link rel='stylesheet' id='color-css'  href='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/css/color.php?ver=4.2.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.5'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://qkthemes-demo.com/wordpress/industrial/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://qkthemes-demo.com/wordpress/industrial/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='ALIQUAM TINCIDUNT MAURIS EU RISUS.' href='http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus/' />
+<meta name="generator" content="WordPress 4.2.7" />
+<link rel='canonical' href='http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus-2/' />
+<link rel='shortlink' href='http://qkthemes-demo.com/wordpress/industrial/?p=565' />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = 'fe9e36a78e';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://qkthemes-demo.com/wordpress/industrial/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://qkthemes-demo.com/wordpress/industrial/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><style type="text/css" title="dynamic-css" class="options-output">body{font-family:Raleway;line-height:23px;font-weight:400;font-style:normal;color:#888888;font-size:13px;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body,{opacity: 0;}.ie.wf-loading body,{visibility: hidden;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="single single-post postid-565 single-format-standard wpb-js-composer js-comp-ver-4.4.3 vc_responsive">
+	<!-- Container -->
+	<div id="container">
+		<!-- Header -->
+		<header class="clearfix">
+			<!-- Static navbar -->
+			<div class="navbar navbar-default navbar-fixed-top">			
+				<div class="container">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="http://qkthemes-demo.com/wordpress/industrial/">
+															<img alt="" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/images/logo.png">
+													</a>
+					</div>
+					<div class="navbar-collapse collapse">
+						<ul id = "menu-main-nav" class = "nav navbar-nav navbar-right"><li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-328 drop"><a title="Home" href="#">Home</a>
+<ul role="menu" class=" drop-down level2">
+	<li id="menu-item-327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a title="Home-Default" href="http://qkthemes-demo.com/wordpress/industrial/">Home-Default</a></li>
+	<li id="menu-item-475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-475"><a title="Home 2" href="http://qkthemes-demo.com/wordpress/industrial/home-2/">Home 2</a></li>
+	<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a title="Home 3" href="http://qkthemes-demo.com/wordpress/industrial/home-3/">Home 3</a></li>
+	<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a title="Home 4" href="http://qkthemes-demo.com/wordpress/industrial/home-4/">Home 4</a></li>
+	<li id="menu-item-472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-472"><a title="Home 5" href="http://qkthemes-demo.com/wordpress/industrial/home-5/">Home 5</a></li>
+</ul>
+</li>
+<li id="menu-item-329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-329 drop"><a title="Feature" href="#">Feature</a>
+<ul role="menu" class=" drop-down level2">
+	<li id="menu-item-409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-409"><a title="About" href="http://qkthemes-demo.com/wordpress/industrial/about/">About</a></li>
+	<li id="menu-item-408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-408"><a title="Services" href="http://qkthemes-demo.com/wordpress/industrial/services/">Services</a></li>
+	<li id="menu-item-407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-407"><a title="Testimonials" href="http://qkthemes-demo.com/wordpress/industrial/testimonials/">Testimonials</a></li>
+	<li id="menu-item-419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-419"><a title="Faqs" href="http://qkthemes-demo.com/wordpress/industrial/faqs/">Faqs</a></li>
+	<li id="menu-item-418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-418"><a title="404 Page" href="http://qkthemes-demo.com/wordpress/industrial/404-page/">404 Page</a></li>
+	<li id="menu-item-476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-476 drop"><a title="Go Level 3" href="#">Go Level 3</a>
+	<ul role="menu" class=" drop-down level3">
+		<li id="menu-item-477" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-477"><a title="Level 3" href="#">Level 3</a></li>
+		<li id="menu-item-478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-478"><a title="Level 3" href="#">Level 3</a></li>
+		<li id="menu-item-479" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-479"><a title="Level 3" href="#">Level 3</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-322" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-322 drop"><a title="Portfolio" href="#">Portfolio</a>
+<ul role="menu" class=" drop-down level2">
+	<li id="menu-item-483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-483"><a title="3 Columns" href="http://qkthemes-demo.com/wordpress/industrial/portfolios/">3 Columns</a></li>
+	<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-482"><a title="4 Column" href="http://qkthemes-demo.com/wordpress/industrial/portfolio-4-column/">4 Column</a></li>
+	<li id="menu-item-481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481"><a title="4 Columns - VERs2" href="http://qkthemes-demo.com/wordpress/industrial/portfolio-4-columns-v2/">4 Columns &#8211; VERs2</a></li>
+	<li id="menu-item-480" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a title="5 Columns" href="http://qkthemes-demo.com/wordpress/industrial/portfolio-5-columns/">5 Columns</a></li>
+	<li id="menu-item-323" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-323"><a title="Single Project" href="http://qkthemes-demo.com/wordpress/industrial/portfolio/vestibulum-facilisis-purus/">Single Project</a></li>
+</ul>
+</li>
+<li id="menu-item-330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-330 drop"><a title="Blog" href="#">Blog</a>
+<ul role="menu" class=" drop-down level2">
+	<li id="menu-item-417" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-417"><a title="Blog Fullwidth" href="http://qkthemes-demo.com/wordpress/industrial/blog-fullwidth/">Blog Fullwidth</a></li>
+	<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a title="Blog Masonry" href="http://qkthemes-demo.com/wordpress/industrial/blog-masonry/">Blog Masonry</a></li>
+	<li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a title="Blog Left Sidebar" href="http://qkthemes-demo.com/wordpress/industrial/blog-left-sidebar/">Blog Left Sidebar</a></li>
+	<li id="menu-item-414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-414"><a title="Blog Right Sidebar" href="http://qkthemes-demo.com/wordpress/industrial/blog-right-sidebar/">Blog Right Sidebar</a></li>
+	<li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-410"><a title="Single Post" href="http://qkthemes-demo.com/wordpress/industrial/curabitur-blandit-mollis/">Single Post</a></li>
+</ul>
+</li>
+<li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a title="Shortcode" href="http://qkthemes-demo.com/wordpress/industrial/shortcode/">Shortcode</a></li>
+<li id="menu-item-325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a title="Contact" href="http://qkthemes-demo.com/wordpress/industrial/contact/">Contact</a></li>
+
+							<li class="drop"><a href="#" class="open-search"><i class="fa fa-search"></i></a>
+								<form class="form-search" method="get" action="http://qkthemes-demo.com/wordpress/industrial/">
+									<input type="search" name="s" id="s" placeholder="Search:"/>
+									<button type="submit">
+										<i class="fa fa-search"></i>
+									</button>
+								</form>
+							</li></ul>						
+					</div>
+				</div>
+			</div>
+		</header>
+		<!-- End Header -->	<div class="section-content blog-section with-sidebar">
+		<div class="container">
+  			<div class="blog-box">
+  				<div class="row">
+  					<div class="col-md-9">
+  						<div class="blog-post single-post">
+							<img width="300" height="250" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/blog11.jpg" class="attachment-post-thumbnail wp-post-image" alt="blog1" />							<div class="post-content">
+								<div class="post-date">
+									<p><span>17</span>Jun</p>
+								</div>
+								<div class="content-data">
+									<h2><a href="http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus-2/">ALIQUAM TINCIDUNT MAURIS EU RISUS.</a></h2>
+									<p>By: admin | 0 Comment</p>
+								</div>
+								<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
+<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</p>
+<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</p>
+<p>Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem</p>
+<blockquote><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p></blockquote>
+<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.</p>
+																									<div class="share-tag-box">
+									<ul class="post-tags">
+										<li><span>Tags:</span></li>
+										<li><a href="http://qkthemes-demo.com/wordpress/industrial/tag/daily/" rel="tag">daily</a>,&nbsp;</li><li><a href="http://qkthemes-demo.com/wordpress/industrial/tag/design/" rel="tag">design</a>,&nbsp;</li><li><a href="http://qkthemes-demo.com/wordpress/industrial/tag/ilustration/" rel="tag">ilustration</a>,&nbsp;</li><li><a href="http://qkthemes-demo.com/wordpress/industrial/tag/journal/" rel="tag">journal</a></li>									</ul>
+									<span>Share this post:</span>
+									<ul class="social-box">
+<li><a class="facebook" href="http://www.facebook.com/share.php?u=http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus-2/&title=ALIQUAM TINCIDUNT MAURIS EU RISUS."><i class="fa fa-facebook"></i></a></li>
+<li><a class="twitter" href="http://twitter.com/home?status=ALIQUAM TINCIDUNT MAURIS EU RISUS.+http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus-2/"><i class="fa fa-twitter"></i></a></li>
+<li><a class="google" href="https://plus.google.com/share?url=http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus-2/"><i class="fa fa-google-plus"></i></a></li>
+<li><a class="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&url=http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus-2/&title=ALIQUAM TINCIDUNT MAURIS EU RISUS.&source=http://qkthemes-demo.com/wordpress/industrial"><i class="fa fa-linkedin"></i></a></li>
+<li><a class="pinterest" href="http://pinterest.com/pin/create/button/?url=http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus-2/&description=ALIQUAM TINCIDUNT MAURIS EU RISUS."><i class="fa fa-pinterest"></i></a></li>
+</ul>								</div>
+								<div class="pagination-boxer">
+									<div class="prev-post">
+																			</div>
+									<div class="next-post">
+																					  	<a href="http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus/" class="button-third">Next <i class="fa fa-angle-right"></i></a>
+												<p>ALIQUAM TINCIDUNT MAURIS EU RISUS.</p>
+																				</div>
+								</div>
+								<!-- COMMENTS -->
+<div class="comment-section">
+	</div><!-- //COMMENTS -->
+
+<!-- LEAVE A COMMENT -->
+<div class="comment-form">
+	<h3>Leave a Comment</h3>
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus-2/#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://qkthemes-demo.com/wordpress/industrial/wp-comments-post.php" method="post" id="send-form" class="comment-form" novalidate>
+																										<div class="row">
+						<div class="col-md-4">
+						<input type="text" name="author" id="author" placeholder="Name (required)"  value=""  aria-required='true'></div>
+					
+<div class="col-md-4"><input type="text" name="email" id="email" placeholder="Email (required)" value=""  aria-required='true'></li>
+					</div>
+<div class="col-md-4"><input type="text" name="url" id="url" placeholder="Website" value=""></li>
+					</div>
+				</div>
+												<textarea name="comment" id="comment" rows="6" placeholder="Your Message (required)"  aria-required="true"></textarea>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="SUBMIT" /> <input type='hidden' name='comment_post_ID' value='565' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>					</form>
+							</div><!-- #respond -->
+			</div>
+<!-- //LEAVE A COMMENT -->
+							</div>
+						</div>
+
+  					</div>
+  					<!-- Sidebar -->
+<div class="col-md-3">
+    <div class="sidebar">
+		<div id="new_search_widget-4" class="widget widget_new_search_widget">    <div class="search-widget">
+      <form role="search" method="get" class="search-form" action="http://qkthemes-demo.com/wordpress/industrial/">
+        <input type="search" name="s" id="s" placeholder="Search:"/>
+        <button type="submit">
+          <i class="fa fa-search"></i>
+        </button>
+    </form>
+    </div>
+    </div><div id="categories-2" class="widget widget_categories"><h3>Category</h3>		<ul>
+	<li class="cat-item cat-item-9"><a href="http://qkthemes-demo.com/wordpress/industrial/category/design/" >Design</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://qkthemes-demo.com/wordpress/industrial/category/lifestyle/" >lifestyle</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://qkthemes-demo.com/wordpress/industrial/category/photos/" >Photos</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://qkthemes-demo.com/wordpress/industrial/category/technology/" >Technology</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://qkthemes-demo.com/wordpress/industrial/category/videos/" >Videos</a>
+</li>
+		</ul>
+</div><div id="new_popular_widget-2" class="widget widget_new_popular_widget"><h3>Popular Post</h3>      <div class="popular-widget">
+        <ul class="popular-list">
+                  <li>
+            <img alt="Morbi mattis ullamcorper velit" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/bfi_thumb/blog11-mc1pztnnmq0wq9ah2jgh33gaaygpd96c0tb0lr8x94.jpg">
+            <div class="side-content">
+              <h2><a href="http://qkthemes-demo.com/wordpress/industrial/morbi-mattis-ullamcorper-velit/">Morbi mattis ullamcorper velit</a></h2>
+              <p>Jul 17, 2015</p>
+            </div>
+          </li>
+                  <li>
+            <img alt="Curabitur blandit mollis" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/bfi_thumb/img18-mc1pztnnmq0wq9ah2jgh33gaaygpd96c0tb0lr8x94.jpg">
+            <div class="side-content">
+              <h2><a href="http://qkthemes-demo.com/wordpress/industrial/curabitur-blandit-mollis/">Curabitur blandit mollis</a></h2>
+              <p>Jul 12, 2015</p>
+            </div>
+          </li>
+                  <li>
+            <img alt="Nullam cursus lacinia" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/bfi_thumb/blog21-mc1pztnnmq0wq9ah2jgh33gaaygpd96c0tb0lr8x94.jpg">
+            <div class="side-content">
+              <h2><a href="http://qkthemes-demo.com/wordpress/industrial/nullam-cursus-lacinia/">Nullam cursus lacinia</a></h2>
+              <p>Jul 12, 2015</p>
+            </div>
+          </li>
+                  <li>
+            <img alt="ALIQUAM TINCIDUNT MAURIS EU RISUS." src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/bfi_thumb/blog11-mc1pztnnmq0wq9ah2jgh33gaaygpd96c0tb0lr8x94.jpg">
+            <div class="side-content">
+              <h2><a href="http://qkthemes-demo.com/wordpress/industrial/aliquam-tincidunt-mauris-eu-risus/">ALIQUAM TINCIDUNT MAURIS EU RISUS.</a></h2>
+              <p>Jul 04, 2015</p>
+            </div>
+          </li>
+                  <li>
+            <img alt="Lorem ipsum dolor" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/bfi_thumb/blog31-mc1pztnnmq0wq9ah2jgh33gaaygpd96c0tb0lr8x94.jpg">
+            <div class="side-content">
+              <h2><a href="http://qkthemes-demo.com/wordpress/industrial/lorem-ipsum-dolor/">Lorem ipsum dolor</a></h2>
+              <p>Jul 12, 2015</p>
+            </div>
+          </li>
+                </ul>
+      </div>
+    </div><div id="archives-2" class="widget widget_archive"><h3>Archives</h3>		<ul>
+	<li><a href='http://qkthemes-demo.com/wordpress/industrial/2015/07/'>July 2015</a></li>
+	<li><a href='http://qkthemes-demo.com/wordpress/industrial/2015/06/'>June 2015</a></li>
+		</ul>
+</div><div id="tag_cloud-2" class="widget widget_tag_cloud"><h3>Tags</h3><div class="tagcloud"><a href='http://qkthemes-demo.com/wordpress/industrial/tag/css3/' class='tag-link-3' title='3 topics' style='font-size: 12.5405405405pt;'>css3</a>
+<a href='http://qkthemes-demo.com/wordpress/industrial/tag/daily/' class='tag-link-17' title='3 topics' style='font-size: 12.5405405405pt;'>daily</a>
+<a href='http://qkthemes-demo.com/wordpress/industrial/tag/design/' class='tag-link-16' title='4 topics' style='font-size: 16.3243243243pt;'>design</a>
+<a href='http://qkthemes-demo.com/wordpress/industrial/tag/html5/' class='tag-link-2' title='3 topics' style='font-size: 12.5405405405pt;'>html5</a>
+<a href='http://qkthemes-demo.com/wordpress/industrial/tag/ilustration/' class='tag-link-15' title='3 topics' style='font-size: 12.5405405405pt;'>ilustration</a>
+<a href='http://qkthemes-demo.com/wordpress/industrial/tag/journal/' class='tag-link-14' title='6 topics' style='font-size: 22pt;'>journal</a>
+<a href='http://qkthemes-demo.com/wordpress/industrial/tag/photo/' class='tag-link-18' title='2 topics' style='font-size: 8pt;'>photo</a>
+<a href='http://qkthemes-demo.com/wordpress/industrial/tag/single/' class='tag-link-19' title='2 topics' style='font-size: 8pt;'>single</a></div>
+</div>    </div>				
+</div><!--end col-md-3 -->
+<!-- /Sidebar -->	
+  				</div>
+			 
+			</div>
+  		</div>
+  		<a class="go-top" href="#"><i class="fa fa-arrow-circle-o-up"></i></a>
+	</div>
+	
+        <!-- ================================ -->
+    <!-- ========== START FOOTER  ========== -->
+    <!-- ================================ -->
+    <!-- footer 
+			================================================== -->
+		<footer>
+			<div class="social-section">
+				<ul class="social-icons">
+										    <li><a class="facebook" href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a></li>
+															    <li><a class="twitter" href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
+										<li><a class="rss" href="http://qkthemes-demo.com/wordpress/industrial/feed/"><i class="fa fa-rss"></i></a></li>
+					    
+					    <li><a class="google" href="https://plus.google.com"><i class="fa fa-google"></i></a></li>
+															    <li><a class="linkedin" href="https://www.linkedin.com/"><i class="fa fa-linkedin"></i></a></li>
+															    <li><a class="pinterest" href="https://www.pinterest.com/"><i class="fa fa-pinterest"></i></a></li>
+										
+				</ul>
+			</div>
+			<div class="up-footer">
+				<div class="container">
+					<div class="row">
+
+						<div class="col-md-3 triggerAnimation animated" data-animate="fadeInLeft">
+							
+							<aside id="text-2" class="widget footer-widget widget_text"><h2>About</h2>			<div class="textwidget"><p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+<p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+<p><a href="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/footer-logo.png"><img class="alignnone size-full wp-image-195" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/footer-logo.png" alt="footer-logo" width="147" height="24" /></a></p>
+</div>
+		</aside>						</div>
+
+						<div class="col-md-3 triggerAnimation animated" data-animate="fadeInUp">
+							<aside id="tweets-widget-2" class="widget footer-widget footer-widget latest-tweets"><h2>Latest tweets.</h2>			<div class="footer-widget tweets-widget">
+               <ul>
+                                                                                      <li>
+							<i class="fa fa-twitter"></i>
+							<p><br />
+<b>Notice</b>:  Trying to get property of non-object in <b>/home2/qkthemes/public_html/wordpress/industrial/wp-content/plugins/tweets/tweets_widget.php</b> on line <b>113</b><br />
+</p>
+							<span><br />
+<b>Notice</b>:  Trying to get property of non-object in <b>/home2/qkthemes/public_html/wordpress/industrial/wp-content/plugins/tweets/tweets_widget.php</b> on line <b>114</b><br />
+2416 weeks ago</span>
+                            </li>
+                            
+                               </ul>
+			</div>
+        </aside>						</div>
+
+						<div class="col-md-3 triggerAnimation animated" data-animate="fadeInRight">
+							
+							<aside id="text-4" class="widget footer-widget widget_text"><h2>Flickr Stream</h2>			<div class="textwidget"><div class=" flickr-widget">
+<ul class="flickr">
+  <li><a href="#"><img alt="flickr" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/flickr1.jpg"></a></li>
+  <li><a href="#"><img alt="flickr" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/flickr2.jpg"></a></li>
+  <li><a href="#"><img alt="flickr" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/flickr3.jpg"></a></li>
+  <li><a href="#"><img alt="flickr" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/flickr4.jpg"></a></li>
+  <li><a href="#"><img alt="flickr" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/flickr5.jpg"></a></li>
+  <li><a href="#"><img alt="flickr" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/flickr6.jpg"></a></li>
+  <li><a href="#"><img alt="flickr" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/flickr1.jpg"></a></li>
+  <li><a href="#"><img alt="flickr" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/flickr2.jpg"></a></li>
+  <li><a href="#"><img alt="flickr" src="http://qkthemes-demo.com/wordpress/industrial/wp-content/uploads/2015/07/flickr3.jpg"></a></li>
+</ul>
+</div></div>
+		</aside>							
+						</div>
+
+						<div class="col-md-3 triggerAnimation animated" data-animate="fadeInDown">
+							
+							<aside id="text-3" class="widget footer-widget widget_text"><h2>Subscribe</h2>			<div class="textwidget"><p>Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+<form class="subscribe-form">
+<input type="text" id="e-mail" name="e-mail" placeholder="Email Address"><br />
+<input type="submit" id="submit" value="submit"><br />
+</form>
+</div>
+		</aside>							
+						</div>
+
+					</div>
+					<div class="footer-line">
+						<p>Copyright 2015. "Idustrial" by Cmsteam. All rights reserved.</p>
+					</div>
+				</div>
+			</div>
+			
+		</footer>
+		<!-- End footer -->
+	</div>
+	<!-- End Container -->
+
+	<!-- THE SCRIPT INITIALISATION -->
+	<!-- LOOK THE DOCUMENTATION FOR MORE INFORMATIONS -->
+
+	<!-- END REVOLUTION SLIDER -->
+    <!-- ================================ -->
+    <!-- ========== END FOOTER  ========== -->
+    <!-- ================================ --> 
+    <script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/qkthemes-demo.com\/wordpress\/industrial\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-includes/js/comment-reply.min.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/bootstrap.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/owl.carousel.min.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/jquery.magnific-popup.min.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/jquery.bxslider.min.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/jquery.appear.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/jquery.countTo.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/jquery.imagesloaded.min.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/retina-1.1.0.min.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/plugins-scroll.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/waypoint.min.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/jquery.stellar.min.js?ver=4.2.7'></script>
+<script type='text/javascript' src='http://qkthemes-demo.com/wordpress/industrial/wp-content/themes/industrial/assets/js/script.js?ver=4.2.7'></script>
+    
+</body>
+</html>
